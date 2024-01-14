@@ -4,7 +4,7 @@ function Note(){
         <div className="note">
        
             <h1>
-                balls
+                balls 1
             </h1>
             <p>balls1</p>
         </div>
